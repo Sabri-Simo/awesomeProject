@@ -30,5 +30,5 @@ This project is a web application built using Go and React. The backend is devel
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/Sabri-Simo/awesomeProject.git
+   cd awesomeProject
