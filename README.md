@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a web application built using Go and React. The backend is developed with Go, using the Gin framework for routing and GORM for ORM. The frontend is developed with React, providing a user interface to interact with the backend.
+This project is a web application built using Go and React. The backend is developed with Go, using the Gin framework for routing and GORM for ORM.
 
 ## Features
 
@@ -14,9 +14,7 @@ This project is a web application built using Go and React. The backend is devel
 ## Tech Stack
 
 - **Backend**: Go, Gin, GORM
-- **Frontend**: React
 - **Database**: PostgreSQL (Supabase)
-- **Authentication**: JWT (for securing endpoints)
 
 ## Setup
 
