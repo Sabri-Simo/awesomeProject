@@ -1,0 +1,25 @@
+# Node modules for React
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-generated files
+.DS_Store
+
+# Go vendor dependencies (if applicable)
+vendor/
+
+# Go build artifacts
+*.exe
+*.out
+*.o
+
+# Environment files
+.env
